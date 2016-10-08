@@ -2,7 +2,7 @@
 Swap two integers in C++ programming language using only one line!
 
 ## How is this done?
-With math you can do this and alot of things! so let us declare two variables, x and y and set them to 1 and 2 respectively.
+With math you can do this and alot of things! so let us declare two variables, x and y and set them to 1 and 2 respectively:
 
 ```
 int x = 1, y = 2;
