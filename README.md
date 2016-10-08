@@ -11,6 +11,7 @@ int x = 1, y = 2;
 Now if we apply three equations on our variables we will swap them without declare temporary variable, the equations is:
 
 ```
+x; y;      // x =  1 | y = 2
 x = x - y; // x = -1 | y = 2
 y = x + y; // x = -1 | y = 1
 x = y - x; // x =  2 | y = 1
