@@ -20,7 +20,7 @@ x = y - x; // x =  2 | y = 1
 And if we want we can write our equations in one line like this:
 
 ```
-x = (y  = (x = x - y) + y) - x;
+x = (y = (x = x - y) + y) - x;
 ```
 
 Have fun :D
